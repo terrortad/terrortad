@@ -95,7 +95,7 @@ As well, I used Azure Data Factory's automation and orchestration capabilities t
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=terrortad&show_icons=true&locale=en&layout=compact" alt="terrortad" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terrortad&show_icons=true&locale=en" alt="terrortad" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terrortad&" alt="terrortad" /></p>
 
